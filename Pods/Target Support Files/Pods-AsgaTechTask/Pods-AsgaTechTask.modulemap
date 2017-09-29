@@ -1,0 +1,6 @@
+framework module Pods_AsgaTechTask {
+  umbrella header "Pods-AsgaTechTask-umbrella.h"
+
+  export *
+  module * { export * }
+}
